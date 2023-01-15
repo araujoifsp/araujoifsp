@@ -2,7 +2,7 @@
 
 - Cursando o terceiro semestre do curso de ADS no IFSP
 - Perfil para hospedar meus projetos academicos
-- Outros projetos serão publicados no meu <a href="https://github.com/GabrielArajooj"> GitHub pessoal</a>
+- Outros projetos serão publicados no meu <a href="https://github.com/gabrielarjs"> GitHub pessoal</a>
 
 ##
 <div style="display: inline_block">
