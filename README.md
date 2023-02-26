@@ -1,6 +1,6 @@
 ### 👋 Olá, eu sou Gabriel Araújo
 
-- Cursando o terceiro semestre do curso de ADS no IFSP
+- Cursando Análise e Desenvolvimento de Sistemas no IFSP
 - Perfil para hospedar meus projetos academicos
 - Outros projetos serão publicados no meu <a href="https://github.com/gabrielarjs"> GitHub pessoal</a>
 
