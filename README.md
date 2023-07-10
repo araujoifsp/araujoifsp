@@ -21,9 +21,9 @@ O repositório é organizado da seguinte maneira:
   </li>
   <li> <a href="https://github.com/araujoifsp/semestre2-ads">2º Semestre</a>
     <ul>
-      <li> <a href="">Banco de Dados I</li>
-      <li> <a href="">Estrutura de Dados I</li>
-      <li> <a href="">Linguagem de Progamação I</li>
+      <li> <a href="https://github.com/araujoifsp/semestre2-ads/tree/main/BD1">Banco de Dados I</li>
+      <li> <a href="https://github.com/araujoifsp/semestre2-ads/tree/main/ED1">Estrutura de Dados I</li>
+      <li> <a href="https://github.com/araujoifsp/semestre2-ads/tree/main/LP1">Linguagem de Progamação I</li>
       <li> <a href="">Sistemas Operacionais</li>
       <li> <a href="">Redes de Computadores</li>
     </ul>
