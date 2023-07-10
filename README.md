@@ -1,6 +1,6 @@
 <h1> 🇧🇷 Gabriel Araújo - ADS - IFSP 🇧🇷 </h1>
 
-<div align="responsive">
+<div align="justify">
   <p>
     Bem-vindo ao meu repositório acadêmico, criado para hospedar projetos acadêmicos desenvolvidos durante o curso de Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo.
   </p>
