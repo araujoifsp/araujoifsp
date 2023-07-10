@@ -3,7 +3,7 @@
 <div align="justify">
   <p>
     Bem-vindo ao meu repositório acadêmico, criado para hospedar projetos acadêmicos desenvolvidos durante o curso de Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo.
-    <img width='50px' src="https://portais.ifsp.edu.br/scl/images/Logo_Campus/logo_IF.jpg" />
+    <img width='500px' src="https://portais.ifsp.edu.br/scl/images/Logo_Campus/logo_IF.jpg" />
     Este repositório foi organizado de forma a separar os projetos por semestre, com cada semestre contendo pastas relacionadas às matérias estudadas. A estrutura do repositório é projetada para facilitar a navegação e o   acesso aos projetos desenvolvidos em cada período.
   </p>
 </div>
